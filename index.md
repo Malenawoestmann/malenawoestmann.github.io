@@ -2,6 +2,7 @@
 „Globalisierung ist für unsere Volkswirtschaften das,
 was für die Physik die Schwerkraft ist.
 Man kann nicht für oder gegen das Gesetz der Schwerkraft sein – man muss damit leben.“
+
 Alain Minc, französischer Ökonom (Zeit.de, 1998)
 
 In dem Zitat von Minc wird deutlich, dass die Globalisierung allgegenwärtig ist. Unternehmen werden globaler und internationaler, so dass die verschiedenen unternehmerischen Aktivitäten zunehmen dezentraler organisiert werden. Zeitgleich spielt die zunehmende Digitalisierung der einzelnen Prozesse eine bedeutende Rolle.
