@@ -1,0 +1,19 @@
+- - - 
+- - - 
+
+@import "{{ site.theme }}";
+
+@import url('https://fonts.googleapis.com/css?family=Questrial&display=swap');
+
+body { 
+    font-family: 'Questrial', sans-serif;
+    text-align: justify;
+    color: #585858;
+}
+
+
+h1,
+h2,
+h3 { 
+font-family: 'Questrial', sans-serif;
+}
