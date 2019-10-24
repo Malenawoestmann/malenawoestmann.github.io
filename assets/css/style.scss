@@ -1,7 +1,9 @@
 --- 
 --- 
 
-@import "{{ site.theme }}";
+@import "{{ site.theme }}";{ 
+    color: #585858;
+}
 
 @import url('https://fonts.googleapis.com/css?family=Questrial&display=swap');
 
