@@ -7,6 +7,7 @@ Alain Minc, französischer Ökonom (Zeit.de, 1998)
 In dem Zitat von Minc wird deutlich, dass die Globalisierung allgegenwärtig ist. Unternehmen werden globaler und internationaler, so dass die verschiedenen unternehmerischen Aktivitäten zunehmen dezentraler organisiert werden. Zeitgleich spielt die zunehmende Digitalisierung der einzelnen Prozesse eine bedeutende Rolle.
 In diesem Paper wird die Logistik als Bestandteil im Unternehmen beleuchtet. Um ein Grundverständnis für die logistische Funktion im Unternehmen zu bekommen, wird zunächst auf die Aufgaben, Ziele und Aspekte der Logistikfunktion eingegangen. Welcher Beitrag die logistische Funktion im Unternehmen hat, wird im darauffolgenden Kapitel geklärt. In Anlehnung an die vorher erwähnte zunehmende Bedeutung der Digitalisierung in der Wirtschaft, wird im letzten Kapitel auf die Fragestellung, welchen Einfluss die Digitalisierung auf die Logistik hat, eingegangen.
 
+
 # Die Logistikfunktion im Unternehmen
 ## Aspekte, Aufgaben und Ziele
 In Zeiten der Globalisierung und Internationalisierung ist es zur Normalität geworden, dass die Waren, Güter, Teile und Einsatzstoffe nicht an dem jeweiligen Ort zu dem jeweiligen Zeitpunkt erzeugt werden, in dem sie benötigt werden. Zentrale Aufgabe der operativen Logistik ist es daher, die geforderte Menge derjenigen Objekte in richtiger Zusammensetzung zum richtigen Zeitpunkt bereitzustellen. Stets sind dabei die Anforderungen der Auftraggeber, Verbraucher und Leistungsempfänger zu beachten. Um einen optimalen Abwicklungsprozess zu bieten, wird von der analytisch-planenden Logistik Prozesse, Strukturen und Systeme entwickelt sowie organisiert (Gudehus, 2015, S. 7).
@@ -42,4 +43,4 @@ Das vorliegende Paper soll verdeutlichen, welchen Einfluss die Digitalisierung a
 Durch die Darstellung des Einflusses der Logistik in Bezug auf die Unternehmensstrategie, welche zur Erreichung des unternehmerischen Erfolges essenziell ist sowie durch die Beschreibung der zunehmenden Digitalisierung der Logistik, wird deutlich, dass der Komplexitätsgrad des Aufgabenbereiches und die Verzahnung der einzelnen Unternehmensfunktionen zunimmt.
 Jedoch ist die Digitalisierung ein unumgänglicher Schritt, welcher von Unternehmensseite aus geleistet werden muss, um die Globalisierung des Unternehmens voranzutreiben und somit wettbewerbsfähig zu bleiben.
 
-![Logistik](01.jpg)
+![Logistik](02.jpg)
