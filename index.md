@@ -2,10 +2,10 @@
 ![Logistik](02.jpg)
 
 # Einleitung
-„Globalisierung ist für unsere Volkswirtschaften das,
+<center> „Globalisierung ist für unsere Volkswirtschaften das,
 was für die Physik die Schwerkraft ist.
 Man kann nicht für oder gegen das Gesetz der Schwerkraft sein – man muss damit leben.“
-Alain Minc, französischer Ökonom (Zeit.de, 1998)
+Alain Minc, französischer Ökonom (Zeit.de, 1998) <center>
 
 In dem Zitat von Minc wird deutlich, dass die Globalisierung allgegenwärtig ist. Unternehmen werden globaler und internationaler, so dass die verschiedenen unternehmerischen Aktivitäten zunehmen dezentraler organisiert werden. Zeitgleich spielt die zunehmende Digitalisierung der einzelnen Prozesse eine bedeutende Rolle.
 In diesem Paper wird die Logistik als Bestandteil im Unternehmen beleuchtet. Um ein Grundverständnis für die logistische Funktion im Unternehmen zu bekommen, wird zunächst auf die Aufgaben, Ziele und Aspekte der Logistikfunktion eingegangen. Welcher Beitrag die logistische Funktion im Unternehmen hat, wird im darauffolgenden Kapitel geklärt. In Anlehnung an die vorher erwähnte zunehmende Bedeutung der Digitalisierung in der Wirtschaft, wird im letzten Kapitel auf die Fragestellung, welchen Einfluss die Digitalisierung auf die Logistik hat, eingegangen.
