@@ -1,3 +1,6 @@
+
+![Logistik](02.jpg)
+
 # Einleitung
 „Globalisierung ist für unsere Volkswirtschaften das,
 was für die Physik die Schwerkraft ist.
@@ -43,4 +46,4 @@ Das vorliegende Paper soll verdeutlichen, welchen Einfluss die Digitalisierung a
 Durch die Darstellung des Einflusses der Logistik in Bezug auf die Unternehmensstrategie, welche zur Erreichung des unternehmerischen Erfolges essenziell ist sowie durch die Beschreibung der zunehmenden Digitalisierung der Logistik, wird deutlich, dass der Komplexitätsgrad des Aufgabenbereiches und die Verzahnung der einzelnen Unternehmensfunktionen zunimmt.
 Jedoch ist die Digitalisierung ein unumgänglicher Schritt, welcher von Unternehmensseite aus geleistet werden muss, um die Globalisierung des Unternehmens voranzutreiben und somit wettbewerbsfähig zu bleiben.
 
-![Logistik](02.jpg)
+
