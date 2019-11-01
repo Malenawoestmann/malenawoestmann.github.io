@@ -2,20 +2,17 @@
 ![Logistik](02.jpg)
 
 # Einleitung
-
-<center> „Globalisierung ist für unsere Volkswirtschaften das,
+„Globalisierung ist für unsere Volkswirtschaften das,
 was für die Physik die Schwerkraft ist.
 Man kann nicht für oder gegen das Gesetz der Schwerkraft sein – man muss damit leben.“
-Alain Minc, französischer Ökonom (Zeit.de, 1998) <center>
+Alain Minc, französischer Ökonom (Zeit.de, 1998)
 
 In dem Zitat von Minc wird deutlich, dass die Globalisierung allgegenwärtig ist. Unternehmen werden globaler und internationaler, so dass die verschiedenen unternehmerischen Aktivitäten zunehmen dezentraler organisiert werden. Zeitgleich spielt die zunehmende Digitalisierung der einzelnen Prozesse eine bedeutende Rolle.
 In diesem Paper wird die Logistik als Bestandteil im Unternehmen beleuchtet. Um ein Grundverständnis für die logistische Funktion im Unternehmen zu bekommen, wird zunächst auf die Aufgaben, Ziele und Aspekte der Logistikfunktion eingegangen. Welcher Beitrag die logistische Funktion im Unternehmen hat, wird im darauffolgenden Kapitel geklärt. In Anlehnung an die vorher erwähnte zunehmende Bedeutung der Digitalisierung in der Wirtschaft, wird im letzten Kapitel auf die Fragestellung, welchen Einfluss die Digitalisierung auf die Logistik hat, eingegangen.
 
 
 # Die Logistikfunktion im Unternehmen
-
 ## Aspekte, Aufgaben und Ziele
-
 In Zeiten der Globalisierung und Internationalisierung ist es zur Normalität geworden, dass die Waren, Güter, Teile und Einsatzstoffe nicht an dem jeweiligen Ort zu dem jeweiligen Zeitpunkt erzeugt werden, in dem sie benötigt werden. Zentrale Aufgabe der operativen Logistik ist es daher, die geforderte Menge derjenigen Objekte in richtiger Zusammensetzung zum richtigen Zeitpunkt bereitzustellen. Stets sind dabei die Anforderungen der Auftraggeber, Verbraucher und Leistungsempfänger zu beachten. Um einen optimalen Abwicklungsprozess zu bieten, wird von der analytisch-planenden Logistik Prozesse, Strukturen und Systeme entwickelt sowie organisiert (Gudehus, 2015, S. 7).
 
 Bei den zu befördernden Objekten entlang der Logistikkette handelt es sich dabei um „Handelswaren, Lebensmitteln, Rohstoffe oder Materialien, Vorprodukte, Halbfertigfabrikate und Fertigwaren, Investitionsgüter oder Konsumgüter ebenso wie Produktions- und Betriebsmittel“ (Gudehus, 2015, S. 7).
@@ -51,22 +48,18 @@ Durch die Darstellung des Einflusses der Logistik in Bezug auf die Unternehmenss
 Jedoch ist die Digitalisierung ein unumgänglicher Schritt, welcher von Unternehmensseite aus geleistet werden muss, um die Globalisierung des Unternehmens voranzutreiben und somit wettbewerbsfähig zu bleiben.
 
 # Literatur
-
 ## Bücher
-
 Bousonville, T. (2017): Logistik 4.0: Die digitale Transformation der Wertschöpfungskette. Wiesbaden: Springer Fachmedien.
 Göbl, M. & Froschmayer, A. (2019): Logistik als Erfolgspotenzial – The power of logisitics: Von der Strategie um logistischen Businessplan – From strategy to logistics business plan. Wiesbaden: Springer Fachmedien.
 Gudehus, T. (2005): Logistik: Grundlagen. Strategien. Anwendungen. Berlin Heidelberg: Springer-Verlag.
 Muchna, C. & Brandenburg, H. & Fottner, J. & Gutermuth, J. (2018): Grundlagen der Logistik: Begriffe, Strukturen und Prozesse. Wiesbaden: Springer Fachmedien.
 
 ## Websiten
-
 Lamparter, D. H. & Proissl, W. (1998): Der französische Ökonom Alain Minc über Globalisierungsängste und das europäische Sozialmodell. Ein ZEIT- Gespräch. URL: https://www.zeit.de/1998/33/Gluecksfall_Euro (Abruf 01.10.2019)
 Still
 GmbH (o. J.): The STILL cubeXX. Six in one.
 URL: https://www.still.de/loesungskompetenz/innovationen-made-by- still/cubexx.html (Abruf 13.10.2019)
 
 ## Sonstige
-
 Straub, N. & Kaczmarek, S. & Hegmanns, T. & Niehues, S. (2017): Logistik 4.0 – Logistikprozesse im Wandel: Technologischer Wandel in Logistiksystemen und deren Einfluss auf die Arbeitswelt in der operativen Logistik
 
