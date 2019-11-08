@@ -56,7 +56,8 @@ Gudehus, T. (2005): Logistik: Grundlagen. Strategien. Anwendungen. Berlin Heidel
 Muchna, C. & Brandenburg, H. & Fottner, J. & Gutermuth, J. (2018): Grundlagen der Logistik: Begriffe, Strukturen und Prozesse. Wiesbaden: Springer Fachmedien.
 
 ## Websiten
-Lamparter, D. H. & Proissl, W. (1998): Der französische Ökonom Alain Minc über Globalisierungsängste und das europäische Sozialmodell. Ein ZEIT- Gespräch. URL: https://www.zeit.de/1998/33/Gluecksfall_Euro (Abruf 01.10.2019)
+Lamparter, D. H. & Proissl, W. (1998): Der französische Ökonom Alain Minc über Globalisierungsängste und das europäische Sozialmodell. Ein ZEIT- Gespräch. 
+URL: https://www.zeit.de/1998/33/Gluecksfall_Euro (Abruf 01.10.2019)
 Still
 
 GmbH (o. J.): The STILL cubeXX. Six in one.
